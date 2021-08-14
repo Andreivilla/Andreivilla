@@ -1,4 +1,6 @@
-### Hi there 👋
+### olá, bem vindo ao GitHub do Andrei
+- studante de ciência da computação na universidade do estado de santa catarina (UDESC)
+- Laguna/Joinville SC
 
 <!--
 **Andreivilla/Andreivilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
