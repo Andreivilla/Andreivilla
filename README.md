@@ -1,5 +1,5 @@
 ### olá, bem vindo ao GitHub do Andrei
-- 🕮 studante de ciência da computação na universidade do estado de santa catarina (UDESC)
+- 🕮 Estudante de ciência da computação na universidade do estado de santa catarina (UDESC)
 - 🗺️ Laguna/Joinville SC
  <div>
  
